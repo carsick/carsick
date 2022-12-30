@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @carsick
+- 💬 I'm a designer at Discourse
+- 📫 cc@carsonchang.com
