@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @carsick
+- 👋 Hi, I’m Carson
 - 💬 I'm a designer at Discourse
 - 📫 cc@carsonchang.com
